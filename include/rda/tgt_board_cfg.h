@@ -193,8 +193,8 @@
     .di1Used            = FALSE,                                        \
     },                                                                  \
     {                                                                   \
-    .cs0Used            = FALSE,                                        \
-    .cs1Used            = FALSE,                                        \
+    .cs0Used            = TRUE,                                        \
+    .cs1Used            = TRUE,                                        \
     .cs2Used            = FALSE,                                        \
     .cs3Used            = FALSE,                                        \
     .cs0ActiveLow       = TRUE,                                         \
